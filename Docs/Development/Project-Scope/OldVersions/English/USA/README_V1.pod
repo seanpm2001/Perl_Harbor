@@ -1,0 +1,11 @@
+=head1 Perl Harbor docs
+
+=head2 Development
+
+=head3 Project scope
+
+This project will focus mainly on the accounts of Pearl Harbor survivors. It is not to extend very far past December 7th unless absolutely needed. The island hopping, invasion of Japan, and end of World War II can be mentioned elsewhere, this project is to focus on the day Pearl Harbor was attacked (also known as: the date which will remembered in infamy)
+
+=head4 File info
+
+File version: 1 (2022, Thursday, December 8th at 10:59 pm PST)

@@ -2,11 +2,13 @@
 
 =head2 Richard Burley
 
+=head2 Notice
+
+This document is still a work in progress. There may be some discrepencies and errors. Later versions will attempt to fix these problems.
+
 =head3 Background
 
-Richard Burley was living in Walla Walla.
-
-=head4 This section needs expansion
+Richard Burley was living in Walla Walla. He originally enlisted in the army in 1939 as a sharpshooter but didn't enter active service until 1941. He was in a relationship with Pearl Burley at the time, but they were not yet married.
 
 =head3 Pearl Harbor
 
@@ -14,11 +16,11 @@ Pearl Harbor was attacked on 1941, Sunday, December 7th. People were relaxing an
 
 =head3 Enlistment
 
-After the attack on Pearl Harbor, Richard enlisted into the army as a rifleman. He thought he was a good shot, and went to train in Camp Pendleton, California. He had never been to California before. Later, he made one last visit to his wife before going to fight in the Pacific.
+After the attack on Pearl Harbor, Richard enlisted back into the army as a rifleman. He thought he was a good shot, and went to train in Camp Pendleton, California. He had never been to California before. Later, he made one last visit to his wife before going to fight in the Pacific.
 
 =head3 War in the Pacific
 
-Richard was sent to war in the Pacific for the campaign into mainland japan. He fought in the battle of Iwo Jima against the Japanese, sometimes with a rifle, sometimes with hand to hand combat. During one battle on Thanksgiving (year currently unknown) his best friend was shot, and died right in front of him. It was very hard on him.
+Richard was sent to war in the Pacific for the campaign into mainland japan. He fought in the Guadalcanal campaign and the battle of Iwo Jima against the Japanese, sometimes with a rifle, sometimes with hand-to-hand combat. During one battle on Thanksgiving (year currently unknown) his best friend was shot, and died right in front of him. It was very hard on him. He was in active duty from 1941, February 10th to 1944, November 17th.
 
 =head3 Post-war
 
@@ -28,10 +30,34 @@ After the war, Richard led a peaceful life. He started a family, and in the 1960
 
 After Richard went to Japan in the 1980s, over 35 years after the war had ended, he finally got closure. What was once an evil empire was now a peaceful nation. His hatred towards the Japanese had ended.
 
+=head3 Meta
+
+About this document:
+
 =head4 File info
 
-File version: 1 (2022, Friday, December 9th at 1:21 pm PST)
+File version: 2 (2022, Friday, December 9th at 1:48 pm PST)
+
+File type: Plain Old Documentation (POD) source file (*.pod)
+
+Line count (including blank lines and compiler line): 64
+
+Word count: 501
 
 =head4 Personal info and review
 
 This document was scrubbed of as much personal information as possible while still being able to identify its subject. Reviews have been done with family members to ensure document quality. Fun fact: a typo was made originally, stating that Pearl Harbor was attacked on 1945, Friday, December 7th. This typo was corrected, but it was a notable typo.
+
+=head4 Dates
+
+Surviving records were used to enhance the document. The official enlistment record is in use here.
+
+=head4 Discrepencies
+
+Enlistment date: family account: 1941
+
+Enlistment date: enlistment record: 1939
+
+=head4 Overrides
+
+Enlistment record has overridden the family account.

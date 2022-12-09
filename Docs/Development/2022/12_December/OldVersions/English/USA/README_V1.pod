@@ -1,0 +1,54 @@
+=head1 Perl Harbor development
+
+=head2 2022, December
+
+=head3 Background
+
+I try to update this project every year on December 7th, the anniversary of the attacks on Pearl Harbor. I was a day late this year (starting December 8th) but it is better than not doing it at all.
+
+I want to make some important structural changes to the project this year, since I have new development methods. For starters, the default markup language for this project will now be Pod, instead of Markdown. This is done to match the Perl scheme of the project. Perl6 is also going to be used in some places. Markdown is not going to be replaced entirely, it will still be present in some areas.
+
+=head3 Scope
+
+I finally have a scope for this project. I will go over it in the following sections.
+
+=head3 Modernization
+
+This project is going to fit the modern style of my works.
+
+=head3 Guidelines
+
+New guidelines are now in place for this project. This project will mostly contain stories of Pearl Harbor survivors, but Perl programs will still be allowed. I am still working on trying to figure out what can be programmed to commemorate this day.
+
+=head3 Focus 2022
+
+This year, I want to focus stories from my familys military service in Pearl Harbor, and also to note the USS Arizona. If anyone feels like sharing a story, go ahead! I will feature the accounts of any Pearl Harbor survivor if they are genuine, and not a troll message.
+
+=head3 Japanese message
+
+This project may feel really downbeat for Japanese viewers, I don't want them to feel ashamed. War can make you do horrible things, and this is a completely different time period, there is no ill intent here. Hardly anyone who was around for Pearl Harbor is still alive today unfortunately. Their stories are to be archived here. A proper message to Japan will be added to the root of the project, and will need to be translated into Japanese first with machine translation, then work will be done on ironing out the errors with someone who speaks Japanese.
+
+=head3 Timeline
+
+A timeline will be added to the project. This is how I feel it should currently go:
+
+
+Background
+
+> Diplomacy and representation
+
+Consequences
+
+> Pearl Harbor is attacked, and 2,335 total people are killed
+
+> World War II is now completely global, as America begins to island hop towards mainland Japan
+
+> American fear leads to the inhumane internment of Japanese Americans
+
+=head3 Conclusion
+
+There is a lot to do on this project this year. This document has gone over all of my plans for the project for this year.
+
+=head4 File info
+
+File version: 1 (2022, Thursday, December 8th at 10:54 pm PST)

@@ -8,36 +8,67 @@
 # YAML
 *.yml linguist-detectable=false
 *.yml linguist-documentation=false
+*.yml linguist-language=YAML
 *.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
+*.yaml linguist-language=YAML
 # ReStructuredText
 *.rst linguist-detectable=false
 *.rst linguist-documentation=false
+*.rst linguist-language=reStructuredText
 # WebVTT
 *.vtt linguist-detectable=false
 *.vtt linguist-documentation=false
+*.vtt linguist-language=WebVTT
 # CSV (Comma Separated Values)
 *.csv linguist-detectable=false
 *.csv linguist-documentation=false
+*.csv linguist-language=CSV
 # Perl
 *.pl linguist-detectable=true
 *.pl linguist-documentation=false
+*.pl linguist-language=Perl
+# Pod
+# I really want to make this tecognizable, but then Pod would be the majority language instead of Perl.
+*.pod linguist-detectable=false
+*.pod linguist-documentation=false
+*.pod linguist-language=Pod
 # Perl6
 *.p6 linguist-detectable=true
 *.p6 linguist-documentation=false
+*.p6 linguist-language=Perl6
 # Raku
+# Do not use Raku on this project
 *.raku linguist-detectable=false
 *.raku linguist-documentation=false
+*.raku linguist-language=Raku
 # Makefile
 *.mk linguist-detectable=false
 *.mk linguist-documentation=false
+*.mk linguist-language=Makefile
+*.mak linguist-detectable=false
+*.mak linguist-documentation=false
+*.mak linguist-language=Makefile
+*.make linguist-detectable=false
+*.make linguist-documentation=false
+*.make linguist-language=Makefile
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=false
 *.md linguist-documentation=false
+*.md linguist-language=Markdown
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mkd linguist-language=Markdown
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.mdown linguist-language=Markdown
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+*.markdown linguist-language=Markdown
 # End of linguist script
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 1 (2021, Thursday September 9th at 9:31 pm)
-# Line count (including blank lines and compiler line): 44
+# File type: gitattributes file (*.gitattributes)
+# File version: 2 (2022, Thuirsday, December 8th at 11:10 pm PST)
+# Line count (including blank lines and compiler line): 75
 # End of script

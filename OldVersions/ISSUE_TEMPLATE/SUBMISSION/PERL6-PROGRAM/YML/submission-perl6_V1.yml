@@ -1,0 +1,63 @@
+name: Submit a Perl6 program
+description: Add a pearl harbor related Perl6 program to this project.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Unknown
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        To rule out invalid issues, confirm and check each one of the checkboxes.
+      options:
+        - label: I verified that this is not related to an existing entry
+          required: true
+        - label: This is not a question, poll, or discussion
+          required: true
+        - label: I can confirm that this is a Perl6 program and not a Perl, Raku, or other language program
+          required: true
+        - label: This is not a Raku program
+          required: true
+        - label: This is a program related to the attack on Pearl Harbor on 1941, December 7th
+          required: true
+        - label: This program uses the `#!/usr/bin/env perl6` shebang on each file.
+          required: true
+        - label: I agree to release this program under the terms of the GNU General Public License v3
+          required: true
+        - label: I agree to have my submission entered into the project if it is valid
+          required: true
+  - type: textarea
+    attributes:
+      label: Perl6 program
+      description: Copy and paste your Perl6 program source code here. If there are multiple files, use one of the below text boxes
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Perl6 program file 2
+      description: Copy and paste the second Perl6 program file here. If there is a 3rd file, feel free to add to another text box below.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Perl6 program file 3
+      description: Copy and paste the third Perl6 program file here. If there is a 4th file, feel free to add to another text box below.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Perl6 program file 4
+      description: Copy and paste the fourth Perl6 program file here. If there is a 5th file, feel free to add to another text box below.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Perl6 program file 5
+      description: Copy and paste the fifth Perl6 program file here. If there is a 6th file, please open another issue, or a pull request.
+    validations:
+      required: false
+# File info
+# File type: GitHub issue template (*.yml)
+# File version: 1 (2022, Saturday, December 10th at 5:11 pm PST)
+# Line count (including blank lines and compiler line): 64

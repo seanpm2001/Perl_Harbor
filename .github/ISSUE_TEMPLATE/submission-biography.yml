@@ -1,0 +1,37 @@
+name: Submit a biography
+description: Write a biography to contribute to this project.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Unknown
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        To rule out invalid issues, confirm and check each one of the checkboxes.
+      options:
+        - label: I verified that this is not related to an existing entry
+          required: true
+        - label: This is not a question, poll, or discussion
+          required: true
+        - label: I can confirm that this is a true account
+          required: true
+        - label: This is a biography, and not a obituary or another type of document
+          required: true
+        - label: This is about a real person, and I can submit government papers to prove it
+          required: true
+        - label: This is about a real person who was impacted by the attack on Pearl Harbor on 1941, December 7th
+          required: true
+        - label: I agree to have my submission entered into the project if it is valid
+          required: true
+  - type: textarea
+    attributes:
+      label: Obituary
+      description: Copy and paste your biography here. Please use either plain text or Pod markup.
+    validations:
+      required: true
+# File info
+# File type: GitHub issue template (*.yml)
+# File version: 1 (2022, Saturday, December 10th at 4:58 pm PST)
+# Line count (including blank lines and compiler line): 38

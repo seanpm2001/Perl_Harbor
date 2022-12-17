@@ -1,0 +1,37 @@
+=head1 Perl Harbor
+
+=head2 Welcome to The Harbor
+
+This is a special documentation section of the project that goes over the current and former ships of Pearl Harbor, Hawaii, with description data, maps, images, and sometimes Perl programs.
+
+This area is very much a work in progress.
+
+=head3 Maps
+
+Maps are sourced from OpenStreetMap.
+
+=head3 Description data
+
+Descriptions are to be written for each ship, giving an in-depth summary of its operations, architecture, and usage.
+
+=head3 Perl programs
+
+No Perl programs have been written for this section yet.
+
+=head3 Ships
+
+Current work target: USS Arizona (2022 goal)
+
+Other targets: The rest of the ships (as of 1941, December 6th)
+
+=head4 Listing
+
+List of ships
+
+USS Arizona
+
+More coming soon
+
+=head3 File info
+
+File version: 1 (2022, Saturday, December 17th at 2:12 pm PST)

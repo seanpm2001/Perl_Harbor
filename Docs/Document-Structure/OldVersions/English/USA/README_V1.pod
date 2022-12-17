@@ -1,0 +1,30 @@
+
+=head1 Perl Harbor Docs
+
+=head2 Document structure
+
+New documentation structure (starting 2022, Saturday, December 17th)
+
+=head2 Level 1 documentation:
+
+=head3 Repository configuration:
+
+Markdown (when rich text is needed) Plain text (elsewhere)
+
+=head2 Level 2 documentation:
+
+=head3 Project documentation:
+
+Pod (as the main article piece) Pod6 (for sub-pages)
+
+=head2 Proposal
+
+Proposed on 2022, Saturday, December 17th at 12:38 am
+
+=head3 File info
+
+File type: Pod source file (*.pod)
+
+File version: 1 (2022, Saturday, December 17th at 12:41 am PST)
+
+Line count (including blank lines and compiler line): 31

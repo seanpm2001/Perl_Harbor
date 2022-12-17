@@ -30,19 +30,39 @@ After the war, Richard led a peaceful life. He started a family, and in the 1960
 
 After Richard went to Japan in the 1980s, over 35 years after the war had ended, he finally got closure. What was once an evil empire was now a peaceful nation. His hatred towards the Japanese had ended.
 
+=head3 Awards (medals and ribbons)
+
+=head4 Medals
+
+Silver_Star_medal.png
+
+=head4 Ribbons
+
+Army_Good_Conduct_Medal_ribbon.svg
+
+Army_Overseas_Service_Ribbon.svg
+
+Asiatic-Pacific_Campaign_Medal_ribbon.svg
+
+Purple_Heart_ribbon.svg
+
+Silver_Star_Medal_ribbon.svg
+
+If anyone knows how to display images in POD, please let me know. If it is impossible, please let me know.
+
 =head3 Meta
 
 About this document:
 
 =head4 File info
 
-File version: 2 (2022, Friday, December 9th at 1:48 pm PST)
+File version: 3 (2022, Saturday, December 17th at 1:00 am PST)
 
 File type: Plain Old Documentation (POD) source file (*.pod)
 
-Line count (including blank lines and compiler line): 64
+Line count (including blank lines and compiler line): 84
 
-Word count: 501
+Word count: 564
 
 =head4 Personal info and review
 
@@ -60,4 +80,4 @@ Enlistment date: enlistment record: 1939
 
 =head4 Overrides
 
-Enlistment record has overridden the family account.
+Enlistment record has overridden the family account in some areas.
